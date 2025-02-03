@@ -1,0 +1,14 @@
+.idea
+.idea/*
+.vscode
+.vscode/*
+*.iws
+**/*.iml
+*.ipr
+**/*.ipr
+atlassian-ide-plugin.xml
+.env
+go.mod
+go.sum
+logs/app-*.log
+H*.md

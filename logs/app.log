@@ -1,0 +1,113 @@
+INFO: 2025/02/02 13:54:06 log.go:94: [34m[0m
+INFO: 2025/02/02 13:54:06 log.go:95: [34m ▗▄▄▖ ▗▄▖      ▗▄▄▖▗▄▄▄▖▗▄▖ ▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖ [0m
+INFO: 2025/02/02 13:54:06 log.go:96: [34m▐▌   ▐▌ ▐▌    ▐▌     █ ▐▌ ▐▌▐▌ ▐▌ █  ▐▌   ▐▌ ▐▌[0m
+INFO: 2025/02/02 13:54:06 log.go:97: [34m▐▌▝▜▌▐▌ ▐▌     ▝▀▚▖  █ ▐▛▀▜▌▐▛▀▚▖ █  ▐▛▀▀▘▐▛▀▚▖[0m
+INFO: 2025/02/02 13:54:06 log.go:98: [34m▝▚▄▞▘▝▚▄▞▘    ▗▄▄▞▘  █ ▐▌ ▐▌▐▌ ▐▌ █  ▐▙▄▄▖▐▌ ▐▌[0m
+INFO: 2025/02/02 13:54:06 log.go:99: [34m[0m
+INFO: 2025/02/02 13:54:06 config.go:82: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 13:54:06 config.go:130: [34mDatabase migration successful![0m
+INFO: 2025/02/02 13:54:06 server.go:60: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 13:54:10 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 13:54:15 main.go:15: Starting server...
+INFO: 2025/02/02 13:54:15 config.go:82: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 13:54:15 config.go:130: [34mDatabase migration successful![0m
+INFO: 2025/02/02 13:54:15 server.go:60: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 13:54:17 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 16:58:00 main.go:15: Starting server...
+INFO: 2025/02/02 16:58:00 config.go:81: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 16:58:00 config.go:129: [34mDatabase migration successful![0m
+INFO: 2025/02/02 16:58:00 server.go:60: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:24:57 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:24:59 main.go:15: Starting server...
+INFO: 2025/02/02 18:24:59 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:24:59 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:24:59 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:25:05 middleware.go:15: [34mRequest from [::1]:58076 to /api/v1/signup [0m
+ERROR: 2025/02/02 18:25:05 userController.go:23: [31mInvalid Request Body invalid character '}' looking for beginning of object key string [0m
+INFO: 2025/02/02 18:26:27 middleware.go:15: [34mRequest from [::1]:51616 to /api/v1/signup [0m
+ERROR: 2025/02/02 18:26:28 userController.go:29: [31mFailed to create user failed to create user [0m
+INFO: 2025/02/02 18:30:33 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:30:36 main.go:15: Starting server...
+INFO: 2025/02/02 18:30:36 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:30:36 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:30:36 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:30:43 middleware.go:15: [34mRequest from [::1]:55230 to /api/v1/signup [0m
+INFO: 2025/02/02 18:30:43 userServiceImpl.go:42: &{0 Jack DOE jackdoe@user.com $2a$10$9OLXRTPd7BvfTT20GsSsdeVtk8RGBtNxovLSWBPa9N3z6BMIN0JG2 jackdoe 1992-01-01 9910028273 male https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png []  }
+ERROR: 2025/02/02 18:30:43 userController.go:29: [31mFailed to create user failed to create user [0m
+INFO: 2025/02/02 18:31:56 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:31:57 main.go:15: Starting server...
+INFO: 2025/02/02 18:31:57 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:31:57 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:31:57 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:32:24 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:32:25 main.go:15: Starting server...
+INFO: 2025/02/02 18:32:25 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:32:26 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:32:26 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:32:34 middleware.go:15: [34mRequest from [::1]:35794 to /api/v1/signup [0m
+ERROR: 2025/02/02 18:32:35 userController.go:29: [31mFailed to create user failed to create user [0m
+INFO: 2025/02/02 18:33:21 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:33:22 main.go:15: Starting server...
+INFO: 2025/02/02 18:33:22 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:33:22 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:33:22 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:33:29 middleware.go:15: [34mRequest from [::1]:35568 to /api/v1/signup [0m
+INFO: 2025/02/02 18:33:29 userRepoImpl.go:23: [34mUser created successfully[0m
+ERROR: 2025/02/02 18:33:29 userController.go:29: [31mFailed to create user failed to create user [0m
+INFO: 2025/02/02 18:35:10 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:35:11 main.go:15: Starting server...
+INFO: 2025/02/02 18:35:11 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:35:12 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:35:12 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:35:16 middleware.go:15: [34mRequest from [::1]:35724 to /api/v1/signup [0m
+INFO: 2025/02/02 18:38:35 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 18:38:41 main.go:15: Starting server...
+INFO: 2025/02/02 18:38:41 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 18:38:41 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 18:38:41 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 18:39:46 middleware.go:15: [34mRequest from [::1]:55822 to /api/v1/signup [0m
+INFO: 2025/02/02 18:39:47 userController.go:43: [34mUser created successfully [0m
+INFO: 2025/02/02 22:26:00 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 22:27:39 main.go:15: Starting server...
+INFO: 2025/02/02 22:27:39 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 22:27:39 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 22:27:39 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 22:28:00 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 22:28:02 main.go:15: Starting server...
+INFO: 2025/02/02 22:28:02 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 22:28:02 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 22:28:02 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/02 22:30:31 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/02 22:30:33 main.go:15: Starting server...
+INFO: 2025/02/02 22:30:33 config.go:76: [34mDatabase connection established successfully![0m
+ERROR: 2025/02/02 22:30:33 main.go:35: [31merror applying migrations: migration failed: relation "role_user" does not exist (column 13) in line 9: CREATE TABLE IF NOT EXISTS role_users (
+    id SERIAL PRIMARY KEY NOT NULL,
+    role_id INT NOT NULL,
+    user_id INT NOT NULL,
+    FOREIGN KEY (role_id) REFERENCES roles (id),
+    FOREIGN KEY (user_id) REFERENCES users (id)
+);
+
+INSERT INTO role_user (role_id, user_id) VALUES (1, 1);
+INSERT INTO role_user (role_id, user_id) VALUES (2, 1);
+INSERT INTO role_user (role_id, user_id) VALUES (2, 2);
+INSERT INTO role_user (role_id, user_id) VALUES (3, 2);
+INSERT INTO role_user (role_id, user_id) VALUES (1, 3); (details: pq: relation "role_user" does not exist) [0m
+INFO: 2025/02/02 22:30:45 main.go:15: Starting server...
+INFO: 2025/02/02 22:30:45 config.go:76: [34mDatabase connection established successfully![0m
+ERROR: 2025/02/02 22:30:45 main.go:35: [31merror rolling back migrations: Dirty database version 3. Fix and force version. [0m
+INFO: 2025/02/02 22:30:57 main.go:15: Starting server...
+INFO: 2025/02/02 22:30:57 config.go:76: [34mDatabase connection established successfully![0m
+ERROR: 2025/02/02 22:30:57 main.go:35: [31merror rolling back migrations: Dirty database version 3. Fix and force version. [0m
+INFO: 2025/02/02 22:32:37 main.go:15: Starting server...
+INFO: 2025/02/02 22:32:37 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/02 22:32:37 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/02 22:32:37 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/03 11:13:03 log.go:103: [34mClosing logger...[0m
+INFO: 2025/02/03 11:13:11 main.go:15: Starting server...
+INFO: 2025/02/03 11:13:11 config.go:76: [34mDatabase connection established successfully![0m
+INFO: 2025/02/03 11:13:11 config.go:124: [34mDatabase migration successful![0m
+INFO: 2025/02/03 11:13:11 server.go:59: [34mThe server is listening at http://localhost:1111[0m
+INFO: 2025/02/03 11:13:18 middleware.go:15: [34mRequest from [::1]:55180 to /api/v1/signup [0m
+INFO: 2025/02/03 11:13:18 userController.go:43: [34mUser created successfully [0m
+INFO: 2025/02/03 11:22:37 log.go:103: [34mClosing logger...[0m

@@ -1,0 +1,11 @@
+.idea
+.idea/*
+.vscode
+.vscode/*
+*.iws
+**/*.iml
+*.ipr
+**/*.ipr
+atlassian-ide-plugin.xml
+.env
+logs/app-*.log
